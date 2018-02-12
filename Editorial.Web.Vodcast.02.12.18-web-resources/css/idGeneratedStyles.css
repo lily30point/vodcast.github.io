@@ -1,0 +1,41 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+#_idContainer000, #_idContainer001, #_idContainer003, #_idContainer004, #_idContainer010, #_idContainer011, #_idContainer017, #_idContainer023 {
+	display:inline-block;
+	height:360px;
+	width:640px;
+}
+#_idContainer002 {
+	display:inline-block;
+	height:363px;
+	width:642px;
+}
+#_idContainer005, #_idContainer012, #_idContainer018, #_idContainer024 {
+	display:inline-block;
+	height:94px;
+	width:168px;
+}
+#_idContainer006, #_idContainer013, #_idContainer019, #_idContainer025 {
+	display:inline-block;
+	height:118px;
+	width:210px;
+}
+#_idContainer007, #_idContainer008, #_idContainer009, #_idContainer014, #_idContainer015, #_idContainer016, #_idContainer020, #_idContainer021, #_idContainer022, #_idContainer026, #_idContainer027, #_idContainer028 {
+	display:inline-block;
+	height:893px;
+	width:879px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
